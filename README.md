@@ -1,5 +1,5 @@
 # E-CommerceProblemSolving
-Using Machine Learning to solve an E-commerce problem
+Where should this company invest: web or app?
 
 <img align="center" src=https://user-images.githubusercontent.com/111542025/233860627-fa13d198-7679-45f6-b68f-abc33ce612f6.jpg>
 
