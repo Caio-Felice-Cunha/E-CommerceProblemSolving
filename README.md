@@ -1,4 +1,4 @@
-# E-CommerceProblemSolving
+# E-Commerce Problem Solving
 Where should this company invest: web or app?
 
 <img align="center" src=https://user-images.githubusercontent.com/111542025/233860627-fa13d198-7679-45f6-b68f-abc33ce612f6.jpg>
